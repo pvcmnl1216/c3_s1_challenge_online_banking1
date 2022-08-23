@@ -1,0 +1,12 @@
+// Attributes
+
+Name
+Address
+Contact number
+Age
+
+//Behaviours
+Withdraw Cash
+Check their balance
+Deposit Cash
+Transfer Cash

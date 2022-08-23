@@ -1,0 +1,11 @@
+// attributes
+12 digit auto generated account number
+the account holder name
+the account balance
+the account status
+
+// behaviour
+
+debit cash
+credit cash
+handle transfer
