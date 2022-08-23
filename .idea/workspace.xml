@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cf107d9-6908-46f2-9986-a836da2d22b6" name="Changes" comment="The text file is created dor customer and savings account">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3cf107d9-6908-46f2-9986-a836da2d22b6" name="Changes" comment="Create class for the customer is done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661253651272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create class for the customer is done">
+      <created>1661254429123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661254429123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +94,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="The changed open jdk file from 18 to 11 ." />
     <MESSAGE value="The text file is created dor customer and savings account" />
-    <option name="LAST_COMMIT_MESSAGE" value="The text file is created dor customer and savings account" />
+    <MESSAGE value="Create class for the customer is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create class for the customer is done" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
